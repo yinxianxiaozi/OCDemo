@@ -1,0 +1,7 @@
+Target dependency graph (4 targets)
+Blocks in Blocks, no dependencies
+libclosure_eOS in Blocks, depends on:
+Blocks in Blocks (explicit)
+Blocks in Blocks, no dependencies
+libclosure_eOS in Blocks, depends on:
+Blocks in Blocks (explicit)

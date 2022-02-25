@@ -1,0 +1,73 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "0d1f903622a2d2f51f9e55e822394713d0da01f61973675ffe5dacdc7e1e46c5"
+    },
+    {
+      "guid" : "0d1f903622a2d2f51f9e55e822394713e10060c193e0022c9a692f01b5a0cc55"
+    },
+    {
+      "guid" : "0d1f903622a2d2f51f9e55e822394713935170ae3d1870b42eb8ca4eefedb347"
+    }
+  ],
+  "containerPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/objc4-818.2/objc.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.0",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/objc4-818.2/DerivedData/objc/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/objc4-818.2/DerivedData/objc/Index/Build/Products",
+      "derivedDataPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/objc4-818.2/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/objc4-818.2/DerivedData/objc/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/objc4-818.2/DerivedData/objc/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/objc4-818.2/DerivedData/objc/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/zhangwenyi/Desktop/zwy/yuanma/objc4-818.2/DerivedData/objc/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

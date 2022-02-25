@@ -1,0 +1,23 @@
+Target dependency graph (16 targets)
+libfirehose_kernel in libdispatch, no dependencies
+libfirehose_kernel in libdispatch, no dependencies
+libfirehose_server in libdispatch, no dependencies
+libfirehose_server in libdispatch, no dependencies
+libdispatch dyld stub in libdispatch, no dependencies
+libdispatch dyld stub in libdispatch, no dependencies
+libdispatch mp static in libdispatch, no dependencies
+libdispatch mp static in libdispatch, no dependencies
+libdispatch in libdispatch, depends on:
+libfirehose_server in libdispatch (explicit)
+libdispatch mp static in libdispatch (explicit)
+libdispatch dyld stub in libdispatch (explicit)
+libdispatch in libdispatch, depends on:
+libfirehose_server in libdispatch (explicit)
+libdispatch mp static in libdispatch (explicit)
+libdispatch dyld stub in libdispatch (explicit)
+libdispatch_driverkit in libdispatch, no dependencies
+libdispatch_driverkit in libdispatch, no dependencies
+libdispatch no resolver in libdispatch, no dependencies
+libdispatch no resolver in libdispatch, no dependencies
+libdispatch introspection in libdispatch, no dependencies
+libdispatch introspection in libdispatch, no dependencies

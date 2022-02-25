@@ -1,0 +1,49 @@
+Target dependency graph (36 targets)
+dyld_shared_cache_builder in dyld, no dependencies
+dyld_shared_cache_builder in dyld, no dependencies
+chroot_util in dyld, no dependencies
+test_support in dyld, no dependencies
+ContainerizedTestRunner in dyld, depends on:
+chroot_util in dyld (explicit)
+test_support in dyld (implicit dependency via file 'libtest_support.a' in build phase 'Link Binary'
+chroot_util in dyld, no dependencies
+test_support in dyld, no dependencies
+ContainerizedTestRunner in dyld, depends on:
+chroot_util in dyld (explicit)
+test_support in dyld (implicit dependency via file 'libtest_support.a' in build phase 'Link Binary'
+dyld_usage in dyld, no dependencies
+dyld_usage in dyld, no dependencies
+libslc_builder.dylib in dyld, no dependencies
+libslc_builder.dylib in dyld, no dependencies
+libdyld_driverkit in dyld, no dependencies
+libdyld_driverkit in dyld, no dependencies
+update_dyld_shared_cache_tool in dyld, no dependencies
+update_dyld_shared_cache_tool in dyld, no dependencies
+dyldinfo in dyld, no dependencies
+dyldinfo in dyld, no dependencies
+update_dyld_sim_shared_cache in dyld, no dependencies
+update_dyld_sim_shared_cache in dyld, no dependencies
+dyld_closure_util in dyld, no dependencies
+dyld_closure_util in dyld, no dependencies
+nocr in dyld, depends on:
+test_support in dyld (implicit dependency via file 'libtest_support.a' in build phase 'Link Binary'
+nocr in dyld, depends on:
+test_support in dyld (implicit dependency via file 'libtest_support.a' in build phase 'Link Binary'
+update_dyld_shared_cache_root_mode_tool in dyld, no dependencies
+update_dyld_shared_cache_root_mode_tool in dyld, no dependencies
+dyld_shared_cache_util in dyld, no dependencies
+dyld_shared_cache_util in dyld, no dependencies
+dsc_extractor in dyld, no dependencies
+dsc_extractor in dyld, no dependencies
+dyld in dyld, depends on:
+dsc_extractor in dyld (explicit)
+dyld_shared_cache_util in dyld (explicit)
+dyld_closure_util in dyld (explicit)
+dyld in dyld, depends on:
+dsc_extractor in dyld (explicit)
+dyld_shared_cache_util in dyld (explicit)
+dyld_closure_util in dyld (explicit)
+libdyld.dylib in dyld, no dependencies
+libdyld.dylib in dyld, no dependencies
+libdsc in dyld, no dependencies
+libdsc in dyld, no dependencies

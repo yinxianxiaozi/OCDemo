@@ -1,0 +1,66 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "8690368aa9e9a7cf26c635fa4a492ee428473f4475ed4562c5a56ad120649ad0"
+    },
+    {
+      "guid" : "8690368aa9e9a7cf26c635fa4a492ee42136afb9ec3993e655a9f82db7971f9e"
+    },
+    {
+      "guid" : "8690368aa9e9a7cf26c635fa4a492ee461d9597fb0c55ebea035f223fd6ed13e"
+    }
+  ],
+  "containerPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libclosure-73/Blocks.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libclosure-73/DerivedData/Blocks/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libclosure-73/DerivedData/Blocks/Index/Build/Products",
+      "derivedDataPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libclosure-73/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libclosure-73/DerivedData/Blocks/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libclosure-73/DerivedData/Blocks/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libclosure-73/DerivedData/Blocks/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libclosure-73/DerivedData/Blocks/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

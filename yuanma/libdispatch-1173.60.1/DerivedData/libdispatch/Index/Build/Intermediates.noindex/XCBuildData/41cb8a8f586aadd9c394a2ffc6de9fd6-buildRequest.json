@@ -1,0 +1,86 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "b70f309984113d3e693c695e11edd80007bc462418bb8f498da809125059f3f1"
+    },
+    {
+      "guid" : "b70f309984113d3e693c695e11edd800bbf9edd26f98a883c65db13fee9db747"
+    },
+    {
+      "guid" : "b70f309984113d3e693c695e11edd8007722bd924998978689604959589de029"
+    },
+    {
+      "guid" : "b70f309984113d3e693c695e11edd8002d6612dbd15b17f66dba9a8d5b9b8b4a"
+    },
+    {
+      "guid" : "b70f309984113d3e693c695e11edd80006d7acd0181ab24cda8ecc141c48312d"
+    },
+    {
+      "guid" : "b70f309984113d3e693c695e11edd8002ca43dcd4910183f59f3bc61c9c425d2"
+    },
+    {
+      "guid" : "b70f309984113d3e693c695e11edd8002b3e5765ba06975b5123dae0e5212996"
+    },
+    {
+      "guid" : "b70f309984113d3e693c695e11edd80081128b3e6950abb33dcd7c328c61c71b"
+    },
+    {
+      "guid" : "b70f309984113d3e693c695e11edd800b8cb748d0ec481f13a1e00933277bbf7"
+    },
+    {
+      "guid" : "b70f309984113d3e693c695e11edd800d439370abd7a602e2f2231d8f91ef899"
+    }
+  ],
+  "containerPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libdispatch-1173.60.1/libdispatch.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libdispatch-1173.60.1/DerivedData/libdispatch/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libdispatch-1173.60.1/DerivedData/libdispatch/Index/Build/Products",
+      "derivedDataPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libdispatch-1173.60.1/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libdispatch-1173.60.1/DerivedData/libdispatch/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libdispatch-1173.60.1/DerivedData/libdispatch/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/libdispatch-1173.60.1/DerivedData/libdispatch/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

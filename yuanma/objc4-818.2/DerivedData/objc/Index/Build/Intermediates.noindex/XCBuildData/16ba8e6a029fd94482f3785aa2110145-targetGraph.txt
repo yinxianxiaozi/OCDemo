@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+objc-trampolines in objc, no dependencies
+objc in objc, depends on:
+objc-trampolines in objc (explicit)
+objc in objc, depends on:
+objc-trampolines in objc (explicit)

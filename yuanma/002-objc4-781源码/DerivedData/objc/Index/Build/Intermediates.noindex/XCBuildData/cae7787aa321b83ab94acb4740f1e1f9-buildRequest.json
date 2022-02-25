@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "0d1f903622a2d2f51f9e55e822394713e10060c193e0022c9a692f01b5a0cc55"
+    }
+  ],
+  "containerPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/002-objc4-781源码/objc.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/002-objc4-781源码/DerivedData/objc/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/002-objc4-781源码/DerivedData/objc/Index/Build/Products",
+      "derivedDataPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/002-objc4-781源码/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/002-objc4-781源码/DerivedData/objc/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/002-objc4-781源码/DerivedData/objc/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/002-objc4-781源码/DerivedData/objc/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/zhangwenyi/Desktop/zwy/yuanma/002-objc4-781源码/DerivedData/objc/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

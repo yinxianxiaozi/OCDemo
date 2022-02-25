@@ -1,0 +1,12 @@
+Target dependency graph (5 targets)
+dsc_extractor in dyld, no dependencies
+dyld_shared_cache_util in dyld, no dependencies
+dyld_closure_util in dyld, no dependencies
+dyld in dyld, depends on:
+dsc_extractor in dyld (explicit)
+dyld_shared_cache_util in dyld (explicit)
+dyld_closure_util in dyld (explicit)
+dyld in dyld, depends on:
+dsc_extractor in dyld (explicit)
+dyld_shared_cache_util in dyld (explicit)
+dyld_closure_util in dyld (explicit)

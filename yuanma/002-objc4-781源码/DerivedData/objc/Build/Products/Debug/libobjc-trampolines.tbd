@@ -1,0 +1,17 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ x86_64-macos, arm64-macos ]
+uuids:
+  - target:          x86_64-macos
+    value:           E85E94B7-C596-3FCF-B3F5-F3384D36B079
+  - target:          arm64-macos
+    value:           FBD5AB8A-FB82-3C17-841F-AEB80FC0B936
+flags:           [ not_app_extension_safe ]
+install-name:    '/usr/lib/libobjc-trampolines.dylib'
+current-version: 228
+exports:
+  - targets:         [ arm64-macos, x86_64-macos ]
+    symbols:         [ __objc_blockTrampolineImpl, __objc_blockTrampolineImpl_stret, 
+                       __objc_blockTrampolineLast, __objc_blockTrampolineLast_stret, 
+                       __objc_blockTrampolineStart, __objc_blockTrampolineStart_stret ]
+...

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>35CCE5C2-22B7-4EAC-8888-1D7E35D70C29</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>35CCE5C2-22B7-4EAC-8888-1D7E35D70C29.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Blocks project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>libclosure_eOS</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build libclosure_eOS</string>
+			<key>timeStartedRecording</key>
+			<real>651228344.07990503</real>
+			<key>timeStoppedRecording</key>
+			<real>651228344.84790695</real>
+			<key>title</key>
+			<string>Build libclosure_eOS</string>
+			<key>uniqueIdentifier</key>
+			<string>35CCE5C2-22B7-4EAC-8888-1D7E35D70C29</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

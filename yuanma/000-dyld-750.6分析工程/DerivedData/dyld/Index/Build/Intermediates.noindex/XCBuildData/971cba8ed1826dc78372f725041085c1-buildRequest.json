@@ -1,0 +1,110 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c22ce756514373457733232d8ebebbbc461"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c222c2a55157abf040d0ae420065cbf7f10"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c228823b44b026e865dd9556ac01504a2b2"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c22afd9d793c93e32106e51c474288d7048"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c22797be3af05410919c4317462645b7d25"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c22f704bb9cb7759da7c82e209c8a9066f0"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c2216ecec2b832730075c62afa98cc76309"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c22d6c2eaf0010c3c52dae4395dc8063e99"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c22376484370133833fe2745f962314b006"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c2226ef385916fdc77eb97e80ecf2333d00"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c22ebdd6a777e69e5406252a2b25a22f137"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c22df1867aad33541379737b0974bb47ef1"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c22b10a462f9eac4cf8211e2f4cd320aef1"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c2242617b3beb814c399dc2e7a6a48f7295"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c22004595abaa2ed8df43f1238f569aa31a"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c22ecae626c8114b9ea5154c1f03eb25893"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c225264cbdf4179b9a11fb869b7c5d94edc"
+    },
+    {
+      "guid" : "0d8d5982cc2fabab7c61cc91b65a8c2208fe335d54510e71109bdb353a8655ee"
+    }
+  ],
+  "containerPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/000-dyld-750.6分析工程/dyld.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/000-dyld-750.6分析工程/DerivedData/dyld/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/000-dyld-750.6分析工程/DerivedData/dyld/Index/Build/Products",
+      "derivedDataPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/000-dyld-750.6分析工程/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/000-dyld-750.6分析工程/DerivedData/dyld/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/000-dyld-750.6分析工程/DerivedData/dyld/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/zhangwenyi/Desktop/zwy/yuanma/000-dyld-750.6分析工程/DerivedData/dyld/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "6e8e834022112b4ee01e66fb4694ae3f4bdd720e5f739da7cc6cc63f38315615"
+    }
+  ],
+  "containerPath" : "/Users/zhangwenyi/Desktop/22/OCDemo/指针偏移/指针偏移.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64h",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64h"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/zhangwenyi/Desktop/22/OCDemo/指针偏移/DerivedData/指针偏移/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/zhangwenyi/Desktop/22/OCDemo/指针偏移/DerivedData/指针偏移/Index/Build/Products",
+      "derivedDataPath" : "/Users/zhangwenyi/Desktop/22/OCDemo/指针偏移/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zhangwenyi/Desktop/22/OCDemo/指针偏移/DerivedData/指针偏移/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zhangwenyi/Desktop/22/OCDemo/指针偏移/DerivedData/指针偏移/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/zhangwenyi/Desktop/22/OCDemo/指针偏移/DerivedData/指针偏移/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/zhangwenyi/Desktop/22/OCDemo/指针偏移/DerivedData/指针偏移/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

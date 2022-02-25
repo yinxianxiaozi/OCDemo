@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "2e0b422de26a84c2dd03da624b7745118f3a28becb1e361dc98f8f4d6fcfbc12"
+    }
+  ],
+  "containerPath" : "/Users/zhangwenyi/Desktop/22/OCDemo/锁的学习/锁的认识/锁的认识.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64h",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64h"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/zhangwenyi/Desktop/22/OCDemo/锁的学习/锁的认识/DerivedData/锁的认识/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/zhangwenyi/Desktop/22/OCDemo/锁的学习/锁的认识/DerivedData/锁的认识/Index/Build/Products",
+      "derivedDataPath" : "/Users/zhangwenyi/Desktop/22/OCDemo/锁的学习/锁的认识/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zhangwenyi/Desktop/22/OCDemo/锁的学习/锁的认识/DerivedData/锁的认识/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zhangwenyi/Desktop/22/OCDemo/锁的学习/锁的认识/DerivedData/锁的认识/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/zhangwenyi/Desktop/22/OCDemo/锁的学习/锁的认识/DerivedData/锁的认识/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/zhangwenyi/Desktop/22/OCDemo/锁的学习/锁的认识/DerivedData/锁的认识/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
